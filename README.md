@@ -1,4 +1,5 @@
 checkErr: Because condensing errors isn't a crime
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 This is a simple little wrapper to catch errors in
